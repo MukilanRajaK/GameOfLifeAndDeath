@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 public class Pair {
-    private final int row;
-    private final int column;
+    public final int row;
+    public final int column;
 
     public Pair(int value1, int value2)
     {
