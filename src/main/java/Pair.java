@@ -4,10 +4,9 @@ public class Pair {
     public final int row;
     public final int column;
 
-    public Pair(int value1, int value2)
-    {
-        row=value1;
-        column=value2;
+    public Pair(int value1, int value2) {
+        row = value1;
+        column = value2;
     }
 
     @Override
